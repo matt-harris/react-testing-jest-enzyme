@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-testing-jest-enzyme/static/css/main.68a2e982.chunk.css",
+    "main.js": "/react-testing-jest-enzyme/static/js/main.176fd3fc.chunk.js",
+    "main.js.map": "/react-testing-jest-enzyme/static/js/main.176fd3fc.chunk.js.map",
+    "runtime-main.js": "/react-testing-jest-enzyme/static/js/runtime-main.ef51feb1.js",
+    "runtime-main.js.map": "/react-testing-jest-enzyme/static/js/runtime-main.ef51feb1.js.map",
+    "static/js/2.65e8dd53.chunk.js": "/react-testing-jest-enzyme/static/js/2.65e8dd53.chunk.js",
+    "static/js/2.65e8dd53.chunk.js.map": "/react-testing-jest-enzyme/static/js/2.65e8dd53.chunk.js.map",
+    "index.html": "/react-testing-jest-enzyme/index.html",
+    "precache-manifest.1c24e09301fd23506a0cf1b71e5e5544.js": "/react-testing-jest-enzyme/precache-manifest.1c24e09301fd23506a0cf1b71e5e5544.js",
+    "service-worker.js": "/react-testing-jest-enzyme/service-worker.js",
+    "static/css/main.68a2e982.chunk.css.map": "/react-testing-jest-enzyme/static/css/main.68a2e982.chunk.css.map",
+    "static/media/logo.svg": "/react-testing-jest-enzyme/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef51feb1.js",
+    "static/js/2.65e8dd53.chunk.js",
+    "static/css/main.68a2e982.chunk.css",
+    "static/js/main.176fd3fc.chunk.js"
+  ]
+}
